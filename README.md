@@ -2,7 +2,8 @@
 
 Flight Finder is a React-based web application that allows users to search and browse flight options between two cities. It utilizes the [Sky Scrapper API](https://rapidapi.com/apiheya/api/sky-scrapper) from RapidAPI to fetch flight data and present it in a user-friendly interface.
 
-![Flight Finder loom demo](https://www.loom.com/share/4629f8f3f15a4f488885a3b45e63e50c?sid=a0b4e939-9c25-402d-b13e-b952703d39ad)
+# Flight Finder loom demo
+[google-flight-finder loom demo](https://www.loom.com/share/4629f8f3f15a4f488885a3b45e63e50c?sid=a0b4e939-9c25-402d-b13e-b952703d39ad)
 
 ## Table of Contents
 
@@ -56,7 +57,7 @@ To run this application locally, follow these steps:
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/webboxesdeveloper/flight-search.git
+    git clone https://github.com/webboxesdeveloper/google-flight-search.git
     cd flight-search
     ```
 
